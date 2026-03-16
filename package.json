@@ -1,0 +1,12 @@
+{
+  "name": "nexusbot-server",
+  "version": "1.0.0",
+  "description": "NexusBot 24/7 Trading Bot",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
